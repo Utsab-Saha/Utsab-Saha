@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/UtsabSaha"><img src="https://komarev.com/ghpvc/?username=UtsabSaha&label=Profile%20Views&color=0e75b6&style=flat" alt="views" /></a>
-  <a href="mailto:utsabsaha287@gmail.com"><img src="https://img.shields.io/badge/Email-utsabsaha.dev%40gmail.com-blue?style=flat&logo=gmail" /></a>
+  <a href=" utsabsaha287@gmail.com "><img src="https://img.shields.io/badge/Email-utsabsaha.dev%40gmail.com-blue?style=flat&logo=gmail" /></a>
   <a href=" (https://www.linkedin.com/in/utsab-saha-783449205/)"><img src="https://img.shields.io/badge/LinkedIn-Utsab%20Saha-blue?logo=linkedin" /></a>
 </p>
 
