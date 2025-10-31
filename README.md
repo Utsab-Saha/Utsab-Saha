@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Utsab Saha</h1>
-<h3 align="center"> BACKEND ARTIST | AI Engineer  </h3>
+<h3 align="center"> BACKEND ARTIST | AI ENGINEER  </h3>
 
 ---
 
