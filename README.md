@@ -50,7 +50,7 @@ My focus is on **bridging intelligent automation with scalable backend systems**
 
 ---
 
-### 🚀 Currently Exploring
+### 🚀 Experimenting with 
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=anthropic&logoColor=white" />
