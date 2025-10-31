@@ -1,71 +1,69 @@
- <!-- PROFILE HEADER -->
-<h1 align="center">Hey 👋, I'm Utsab Saha</h1>
-<h3 align="center">🚀 Building Scalable Systems | 💻 Backend Developer | 🤖 AI Enthusiast</h3>
-
-<p align="center">
-  <a href="https://github.com/UtsabSaha"><img src="https://komarev.com/ghpvc/?username=UtsabSaha&label=Profile%20Views&color=0e75b6&style=flat" alt="views" /></a>
-  <a href=" utsabsaha287@gmail.com "><img src="https://img.shields.io/badge/Email-utsabsaha.dev%40gmail.com-blue?style=flat&logo=gmail" /></a>
-  <a href=" (https://www.linkedin.com/in/utsab-saha-783449205/)"><img src="https://img.shields.io/badge/LinkedIn-Utsab%20Saha-blue?logo=linkedin" /></a>
-</p>
+<h1 align="center">👋 Hey, I'm Utsab Saha</h1>
+<h3 align="center"> BACKEND ARTIST | AI Engineer  </h3>
 
 ---
 
 ### 🧠 About Me
+ 
+I'm a **Computer Science undergrad (MAKAUT 2024-28)** focused on **designing intelligent systems that learn, adapt, and scale**.  
+I architect and build **robust, high-performance web applications**, integrating **AI, ML, and blockchain** technologies to make them more **efficient, autonomous, and future-ready**.  
 
-I'm a **Computer Science undergraduate** passionate about designing intelligent systems that *learn, adapt, and scale*.  
-Currently exploring **Backend Systems**, **AI-driven applications**, and **distributed architectures**.  
-
-I love building tools that solve real problems, automate tedious work, and enhance human capability through thoughtful design.
-
-> _“Great code isn’t written, it’s architected.”_
+My focus is on **bridging intelligent automation with scalable backend systems** — ensuring that every project I build doesn’t just *work*, but *learns* and *evolves*.  
 
 ---
 
-### 🧩 Tech Stack & Tools
+### ⚙️ Specialized In
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=alembic&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EB5E0B?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pillow-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-#### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
- 
-#### ⚙️ Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi)
- 
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
+---
 
-#### ☁️ DevOps / Tools
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+### 💡 Proficient In
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinata-FFD400?style=for-the-badge&logo=pinata&logoColor=black" />
+</p>
 
 ---
 
-### 🏗️ Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
- 
-| 🍳 [Video-Based Customer behaviour tracking using AIt]( (https://github.com/Utsab-Saha/Video-based-Customer-Behaviour-Tracking-using-AI)) | AI-powered system for real-time customer behavior tracking and analytics using video intelligence. |PyTorch · OpenCV · FastAPI . DeepSORT . PostgreSQL|
-| ⚡ [Decentralized Energy Trading Platform]( (https://github.com/Utsab-Saha/Decentralized-Energy-Trading-Network)) | Blockchain-inspired platform enabling peer-to-peer energy trading with dynamic pricing models. | Solidity · Flask · Web3.py · IPFS |
-| 🧠 [Smart Study Agent]( (https://github.com/Utsab-Saha/Smart-Study-Agent)) | AI-based study agent that uses the concept of forgetting curve and behaviourial to schedule and generate study sessions intelligently. | FastAPI · Python · POSTGRESQL · Scheduler Logic . LLM support |
- 
----
-
-### 🧰 Current Focus
-
-- 🔬 Deepening backend design: API security, scalability, async systems  
-- 📡 Learning: **Dockerized microservices **  
-- 💬 Contributing to: **Kivy open source projects**  
-- ⚙️ Building: a new “AI-Powered Video Based customer behaviour tracking program” with daily learning insights
+### 🚀 Currently Exploring
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/DApps-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conversational%20AI-5E5DF0?style=for-the-badge&logo=dialogflow&logoColor=white" />
+</p>
 
 ---
+
 
 ### 📊 GitHub Analytics
-
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Utsab-Saha&show_icons=true&theme=react&hide_border=true&bg_color=00000000" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsab-Saha&theme=react&hide_border=true&background=00000000" />
@@ -75,15 +73,18 @@ I love building tools that solve real problems, automate tedious work, and enhan
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Utsab-Saha&theme=react-dark&hide_border=true&area=true&custom_title=Code Activity Graph" />
 </p>
 
- 
 ---
 
-### 🤝 Let’s Connect to build something worth
-
+### 🌐 Let's Connect
 <p align="center">
-  <a href=" https://www.linkedin.com/in/utsab-saha-783449205/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:utsabsaha287@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/UtsabSaha"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Utsab-Saha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/utsab-saha-783449205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:utsabsaha287@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+---
+
+⭐ *“Code that learns, scales, and endures.”*  
+
 
  
