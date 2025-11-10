@@ -1,7 +1,9 @@
  
+ 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=550&lines=👋+Hey%2C+I'm+Utsab+Saha;🚀+Backend+Developer;🤖+AI+Engineer;⚡+Quick+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Utsab+Saha;Backend+Developer;AI+Engineer;Quick+Learner" alt="Typing SVG" />
 </h1>
+
 
 <h3 align="center">
   <span style="background: linear-gradient(90deg, #00C4FF, #7F00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
