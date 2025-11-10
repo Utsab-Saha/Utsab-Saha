@@ -1,13 +1,22 @@
-<h1 align="center">👋 Hey, I'm Utsab Saha</h1>
-<h3 align="center"> BACKEND ARTIST | AI ENGINEER  </h3>
+<!-- Dynamic Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=550&lines=👋+Hey%2C+I'm+Utsab+Saha;🚀+Backend+Developer;🤖+AI+Engineer;💡+Quick+Learner" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  <span style="background: linear-gradient(90deg, #00C4FF, #7F00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Backend Developer | AI Engineer | Innovator
+  </span>
+</h3>
 
 ---
 
 ### 🧠 About Me
- 
-I'm a **Computer Science undergrad (MAKAUT 2024-28)** focused on **designing intelligent systems that learn, adapt, and scale**.  
-I architect and build **robust, high-performance web applications**, integrating  ** machine learning and automated workflows **   
-My focus is on **bridging intelligent automation with scalable backend systems**  
+I'm a **Computer Science undergrad (MAKAUT 2024–28)** passionate about **designing intelligent systems that learn, adapt, and scale**.  
+I architect and build **robust, high-performance backend systems**, integrating **Machine Learning** and **automated workflows** to make them **efficient, autonomous, and future-ready**.  
+
+My mission: *to bridge intelligent automation with scalable backend architectures — ensuring every system I build doesn’t just work, but learns and evolves.*
+
 ---
 
 ### ⚙️ Specialized In
@@ -39,12 +48,13 @@ My focus is on **bridging intelligent automation with scalable backend systems**
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinata-FFD400?style=for-the-badge&logo=pinata&logoColor=black" />
 </p>
 
 ---
 
-### 🚀 Experimenting with 
+### 🚀 Experimenting With
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -56,27 +66,29 @@ My focus is on **bridging intelligent automation with scalable backend systems**
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Utsab-Saha&show_icons=true&theme=react&hide_border=true&bg_color=00000000" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsab-Saha&theme=react&hide_border=true&background=00000000" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Utsab-Saha&show_icons=true&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsab-Saha&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Utsab-Saha&theme=react-dark&hide_border=true&area=true&custom_title=Code Activity Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Utsab-Saha&theme=react-dark&hide_border=true&area=true&custom_title=🔥%20My%20Code%20Activity%20Graph" />
 </p>
 
 ---
 
 ### 🌐 Let's Connect
 <p align="center">
-  <a href="https://github.com/Utsab-Saha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/utsab-saha-783449205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:utsabsaha287@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Utsab-Saha"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/utsab-saha-783449205/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:utsabsaha287@gmail.com"><img src="https://img.shields.io/badge/Gmail-CA0A00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐ *“Code that learns, scales, and endures.”*
- 
+<h3 align="center">
+  🌟 <i>“Code that learns, scales, and endures.”</i> 🌟
+</h3>
+
 
 
  
