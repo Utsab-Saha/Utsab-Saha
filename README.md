@@ -14,22 +14,22 @@ My focus is on **bridging intelligent automation with scalable backend systems**
 
 ### ⚙️ Specialized In
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Pydantic-3776AB?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  
-   
   <br/>
-  
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-EB5E0B?style=for-the-badge&logo=xgboost&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black" />
-  <br/>
-  
 </p>
 
 ---
@@ -38,7 +38,6 @@ My focus is on **bridging intelligent automation with scalable backend systems**
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -53,12 +52,10 @@ My focus is on **bridging intelligent automation with scalable backend systems**
   <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
- 
   <img src="https://img.shields.io/badge/Conversational%20AI-5E5DF0?style=for-the-badge&logo=dialogflow&logoColor=white" />
 </p>
 
 ---
-
 
 ### 📊 GitHub Analytics
 <p align="center">
@@ -77,6 +74,12 @@ My focus is on **bridging intelligent automation with scalable backend systems**
   <a href="https://github.com/Utsab-Saha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/utsab-saha-783449205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:utsabsaha287@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ *“Code that learns, scales, and endures.”*
+
 </p>
 
 ---
