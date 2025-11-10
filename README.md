@@ -6,10 +6,8 @@
 ### 🧠 About Me
  
 I'm a **Computer Science undergrad (MAKAUT 2024-28)** focused on **designing intelligent systems that learn, adapt, and scale**.  
-I architect and build **robust, high-performance web applications**, integrating **AI, ML, and blockchain** technologies to make them more **efficient, autonomous, and future-ready**.  
-
-My focus is on **bridging intelligent automation with scalable backend systems** — ensuring that every project I build doesn’t just *work*, but *learns* and *evolves*.  
-
+I architect and build **robust, high-performance web applications**, integrating  ** MACHINE LEARNING AND AUTOMATED WORKFLOWS **   
+My focus is on **bridging intelligent automation with scalable backend systems**  
 ---
 
 ### ⚙️ Specialized In
@@ -79,12 +77,7 @@ My focus is on **bridging intelligent automation with scalable backend systems**
 ---
 
 ⭐ *“Code that learns, scales, and endures.”*
-
-</p>
-
----
-
-⭐ *“Code that learns, scales, and endures.”*  
+ 
 
 
  
