@@ -1,13 +1,33 @@
 <!-- Dynamic Typing Animation -->
+<!-- Dynamic Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=550&lines=👋+Hey%2C+I'm+Utsab+Saha;🚀+Backend+Developer;🤖+AI+Engineer;💡+Quick+Learner" alt="Typing SVG" />
+  <style>
+    @keyframes wave {
+      0% { transform: rotate(0deg); }
+      10% { transform: rotate(14deg); }
+      20% { transform: rotate(-8deg); }
+      30% { transform: rotate(14deg); }
+      40% { transform: rotate(-4deg); }
+      50% { transform: rotate(10deg); }
+      60%,100% { transform: rotate(0deg); }
+    }
+  </style>
+
+  <span style="display:inline-block; animation: wave 1.8s infinite;">👋</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Utsab+Saha;🚀+Backend+Developer;🤖+AI+Engineer;⚡+Quick+Learner" alt="Typing SVG" />
 </h1>
 
+
 <h3 align="center">
-  <span style="background: linear-gradient(90deg, #00C4FF, #7F00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Backend Developer | AI Engineer | Innovator
+  <span style="background: linear-gradient(90deg, #00C4FF, #7F00FF); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent; 
+               text-shadow: 0 0 15px rgba(127,0,255,0.4);">
+    Backend Developer | AI Engineer | Quick Learner
   </span>
 </h3>
+
+
 
 ---
 
