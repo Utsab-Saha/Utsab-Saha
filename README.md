@@ -39,8 +39,7 @@ My focus is on **bridging intelligent automation with scalable backend systems**
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinata-FFD400?style=for-the-badge&logo=pinata&logoColor=black" />
+  
 </p>
 
 ---
