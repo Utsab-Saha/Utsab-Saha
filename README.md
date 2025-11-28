@@ -7,7 +7,7 @@
 
 <h3 align="center">
   <span style="background: linear-gradient(90deg, #00C4FF, #7F00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Backend Developer | AI Engineer | Quick Learner
+    Backend Developer  
   </span>
 </h3>
 
